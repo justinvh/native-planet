@@ -1,0 +1,3 @@
+This project requires:
+
+- SFML
